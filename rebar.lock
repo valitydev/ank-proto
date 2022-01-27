@@ -1,0 +1,8 @@
+[{<<"damsel">>,
+  {git,"https://github.com/valitydev/damsel.git",
+       {ref,"5addc419f26de2cd00294865feea3d997d308d77"}},
+  0},
+  {<<"payout_manager_proto">>,
+    {git,"https://github.com/valitydev/payout-manager-proto.git",
+         {ref,"5bf4fad7183e34b9ef0e53be86c524ea2ae121ad"}},
+    0}].

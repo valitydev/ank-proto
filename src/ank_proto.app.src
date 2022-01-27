@@ -1,0 +1,8 @@
+{application, ank_proto, [
+    {description, "Thrift proto for ank"},
+    {vsn, "0.1.0"},
+    {applications, [
+        kernel,
+        stdlib
+    ]}
+]}.
